@@ -30,3 +30,4 @@ This database was then separated in two arrays in order to get the chart values.
 4.  In my function, I made an interval of one second which serves as the time value to update and add the data to te table. After creating my variable, chart and loops I call back the function.
 
 
+### Project done by Loïc Zeiss
