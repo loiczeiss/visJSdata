@@ -1,5 +1,15 @@
 ### project data visualisation in html file and in a json data API using javascript DOM event and third party libraries
 
+## Objectives 
+This consolidation challenge will help you assess your ability to solve a problem inspired from real-life situations using your new javascript muscles involving the following know-hows :
+
+# DOM manipulation
+# AJAX/FETCH request 
+Using Third-party libraries
+problem-solving : design a logical solution to implement the expected result
+Debugging using the console
+Understand the notion of "separation of concerns"
+
 ## what
 
 1. data fetching in HTML file table with the use of javascript without modification of the HTML file
