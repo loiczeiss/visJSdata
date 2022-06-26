@@ -5,10 +5,10 @@ This consolidation challenge will help you assess your ability to solve a proble
 
 # DOM manipulation
 # AJAX/FETCH request 
-Using Third-party libraries
-problem-solving : design a logical solution to implement the expected result
-Debugging using the console
-Understand the notion of "separation of concerns"
+# Using Third-party libraries
+# problem-solving : design a logical solution to implement the expected result
+# Debugging using the console
+# Understand the notion of "separation of concerns"
 
 ## what
 
